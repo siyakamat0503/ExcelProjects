@@ -1,1 +1,18 @@
-List of excel basic Formulae
+List of excel basic FormulaS
+LOGICAK OPERATORS
+1. SUM
+=SUM(D10:G10)
+2. IF
+=IF(D10>=35,"Pass","Fail")
+3. Nested IF
+=IF(H10>300,"Excellent",IF(H10>=200,"Average","Needs Improvement"))
+4. IF + AND
+=IF(AND(B10="Kingston",C10="Masters"),"Kingstonite","Not a Kingstonite")
+5.IF + OR
+=IF(OR(B10="Harvard",B10="Oxford"),"ILS","Not ILS")
+6. IF + NOT
+=IF(NOT(B10="Kingston"),"ILS","Not ILS")
+
+STATISTICAL FORMULAS
+
+
